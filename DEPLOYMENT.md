@@ -12,7 +12,7 @@ Production deployment using Docker Compose behind a Caddy reverse proxy.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/schej-it/timeful.app
+git clone https://github.com/General-Zimmer/timeful.app
 cd timeful.app
 
 # 2. Create server environment file
